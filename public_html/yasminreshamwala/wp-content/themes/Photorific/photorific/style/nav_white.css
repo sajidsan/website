@@ -1,0 +1,31 @@
+#header {
+	opacity: 0.7;
+}
+#header_top {
+	background-image: url(../images/bordertop_white.png);
+}
+#header_content {
+	background-color: #fff;
+	-moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+}
+#header_bottom {
+	background-image: url(../images/borderbottom_white.png);
+}
+#sf-menu ul li {
+	border-color: #ddd;
+}
+#sf-menu ul li a strong {
+	color: #000;
+}
+#sf-menu ul li a span {
+	color: #666;
+}
+.sidebar_divider {
+	background: #ddd;
+}
+#footer {
+	background: #fff;
+	color: #000;
+}

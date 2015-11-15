@@ -1,0 +1,13 @@
+#mainpage {
+	clear: left;
+}
+#logo {
+	padding-left: 20px;
+}
+#sf-menu ul li a span {
+	margin: 0;
+}
+#sf-menu ul li {
+	background: none;
+}
+#supersized-loader { display: none; }

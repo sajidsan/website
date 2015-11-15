@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+
+<feed xmlns="http://purl.org/atom/ns#" version="0.3" xml:lang="en-US">
+<link href="https://www.blogger.com/atom/31541035" rel="service.post" title="SYSMA International" type="application/atom+xml"/>
+<link href="https://www.blogger.com/atom/31541035" rel="service.feed" title="SYSMA International" type="application/atom+xml"/>
+<title mode="escaped" type="text/html">SYSMA International</title>
+<tagline mode="escaped" type="text/html">Pigments, Coatings and Connections for the Chemical Industry</tagline>
+<link href="http://www.sysmainternational.com/cms/" rel="alternate" title="SYSMA International" type="text/html"/>
+<id>tag:blogger.com,1999:blog-31541035</id>
+<modified>2006-08-03T00:46:27Z</modified>
+<generator url="http://www.blogger.com/" version="6.72">Blogger</generator>
+<info mode="xml" type="text/html">
+<div xmlns="http://www.w3.org/1999/xhtml">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader or syndicated to another site. Please visit the <a href="http://help.blogger.com/bin/answer.py?answer=697">Blogger Help</a> for more info.</div>
+</info>
+<convertLineBreaks xmlns="http://www.blogger.com/atom/ns#">true</convertLineBreaks>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="https://www.blogger.com/atom/31541035/115456262899096550" rel="service.edit" title="Yellow pigment" type="application/atom+xml"/>
+<author>
+<name>Shakeel Mahate</name>
+</author>
+<issued>2006-08-02T19:49:00-04:00</issued>
+<modified>2006-08-02T23:50:28Z</modified>
+<created>2006-08-02T23:50:28Z</created>
+<link href="http://www.sysmainternational.com/cms/2006/08/yellow-pigment.html" rel="alternate" title="Yellow pigment" type="text/html"/>
+<id>tag:blogger.com,1999:blog-31541035.post-115456262899096550</id>
+<title mode="escaped" type="text/html">Yellow pigment</title>
+<content type="application/xhtml+xml" xml:base="http://www.sysmainternational.com/cms/" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">We sell yellow pigments in the following sizes:<br/>
+<br/>
+<ul>
+<li>Size 1</li>
+<li>Size 2</li>
+<li>Size 3</li>
+<li>Size 4</li>
+</ul>
+<br/>Contact us for more information</div>
+</content>
+<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="https://www.blogger.com/atom/31541035/115455536429373353" rel="service.edit" title="Second post" type="application/atom+xml"/>
+<author>
+<name>Shakeel Mahate</name>
+</author>
+<issued>2006-08-02T17:48:00-04:00</issued>
+<modified>2006-08-02T21:49:24Z</modified>
+<created>2006-08-02T21:49:24Z</created>
+<link href="http://www.sysmainternational.com/cms/2006/08/second-post.html" rel="alternate" title="Second post" type="text/html"/>
+<id>tag:blogger.com,1999:blog-31541035.post-115455536429373353</id>
+<title mode="escaped" type="text/html">Second post</title>
+<content type="application/xhtml+xml" xml:base="http://www.sysmainternational.com/cms/" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">This is the second post and I want to make sure that it gets published properly.<br/>
+<br/>Also where are the categories?<br/>
+<br/>Shakeel</div>
+</content>
+<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="https://www.blogger.com/atom/31541035/115366840813493931" rel="service.edit" title="First post" type="application/atom+xml"/>
+<author>
+<name>Shakeel Mahate</name>
+</author>
+<issued>2006-07-23T11:25:00-04:00</issued>
+<modified>2006-07-23T15:26:48Z</modified>
+<created>2006-07-23T15:26:48Z</created>
+<link href="http://www.sysmainternational.com/cms/2006/07/first-post.html" rel="alternate" title="First post" type="text/html"/>
+<id>tag:blogger.com,1999:blog-31541035.post-115366840813493931</id>
+<title mode="escaped" type="text/html">First post</title>
+<content type="application/xhtml+xml" xml:base="http://www.sysmainternational.com/cms/" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Hello World</div>
+</content>
+<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+</entry>
+</feed>

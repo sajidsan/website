@@ -1,0 +1,3 @@
+<?php
+//O:8:"stdClass":23:{s:2:"ID";s:1:"2";s:10:"user_login";s:7:"shakeel";s:9:"user_pass";s:32:"a25a1bb2b8a47eee9a5ea4493c0ac333";s:13:"user_nicename";s:7:"shakeel";s:10:"user_email";s:24:"shakeel.mahate@gmail.com";s:8:"user_url";s:7:"http://";s:15:"user_registered";s:19:"2006-08-03 14:22:50";s:19:"user_activation_key";s:0:"";s:11:"user_status";s:1:"0";s:12:"display_name";s:7:"shakeel";s:10:"first_name";s:7:"Shakeel";s:9:"last_name";s:6:"Mahate";s:8:"nickname";s:7:"shakeel";s:11:"description";s:0:"";s:6:"jabber";s:0:"";s:3:"aim";s:0:"";s:3:"yim";s:0:"";s:15:"wp_capabilities";a:1:{s:13:"administrator";b:1;}s:13:"wp_user_level";s:2:"10";s:10:"user_level";s:2:"10";s:14:"user_firstname";s:7:"Shakeel";s:13:"user_lastname";s:6:"Mahate";s:16:"user_description";s:0:"";}
+?>

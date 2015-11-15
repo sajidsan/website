@@ -1,0 +1,131 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+
+p {
+	font-size: 18px;
+	font-family: 'EB Garamond', serif;
+
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+}
+
+h5 {
+	color:grey;
+}
+
+.thumb {
+	width:100%;
+}
+
+.jumbotron {
+	background-size: cover;	
+	background-repeat:no-repeat;
+	width: 100%vw;
+	height: 70vh;
+
+}
+
+.jumbotron.home {
+	background-image:url('../../img/homeHeader.svg');
+}
+
+.jumbotron.index {
+	background-image:url('../../img/art1.jpg');
+}
+
+.jumbotron.agg {
+	background-image:url('../../img/aggHeader.png');
+}
+
+.jumbotron.pique {
+	background-image:url('../../img/piqueHeader.png');
+}
+
+.jumbotron.pique {
+	background-image:url('../../img/piqueHeader.png');
+}
+
+.jumbotron.alumni {
+	background-image:url('../../img/alumniHeader.png');
+}
+
+.jumbotron.yawn {
+	background-image:url('../../img/yawnHeader.png');
+}
+
+.jumbotron.dispatch {
+	background-image:url('../../img/dispatchHeader.png');
+}
+
+.jumbotron.ido {
+	background-image:url('../../img/idoHeader.png');
+}
+
+div.teal {
+	background-color: #e1f2ed;
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+div.aggstock1 {
+	background-image:url('../../img/art1.jpg');
+	height:auto;
+}
+
+div.black {
+	background-color: black;
+}
+
+div.row {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.shadow {
+	box-shadow: 1px 3px 5px 3px #ccc;
+}
+
+.artifactpadded {
+	border-style:solid;
+	border-width:1px;
+	border-color:;
+	padding: 30px;
+
+}
+
+.artifact {
+	border-style:solid;
+	border-width:1px;
+	border-color:#dcdcdc;
+}
+
+img.fill {
+	width:100%;
+
+}
+
+
+
+h1.center {
+	text-align: center;
+}
+
+div.circle{
+	margin:50px auto;
+	width:100px
+	;height:100px;
+	border-radius:50px;
+	font-size:20px;
+	color:#fff;line-height:100px
+	;text-align:center;background:#000}
+
+
